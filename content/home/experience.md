@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Graduate Researcher"
+  title = "Data Scientist"
   company = "Gryphon Neurolab"
   company_url = ""
   location = "Remote"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """  
 * Demonstrated the link between ADHD symptoms and hand motion properties using GLM, stepwise regression and random forest regressions in Python
-* Applied hierarchical Bayesian parameter estimation to behavioraldata in Python & R
+* Applied hierarchical Bayesian parameter estimation to behavioral data in Python & R
 * Identified clusters in behavioral data using K-NN and SVM algorithms
 * Devised,planned,programmed and executed cognitive experiments using
 Python
