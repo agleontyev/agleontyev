@@ -3,7 +3,7 @@ title: "HBU: Human Behavior Understanding by Choice Reaching"
 authors:
 - Takashi Yamauchi
 - admin
-date: "2018-10-11"
+date: "2018-10"
 # doi: 
 
 # Schedule page publish date (NOT publication's date).
