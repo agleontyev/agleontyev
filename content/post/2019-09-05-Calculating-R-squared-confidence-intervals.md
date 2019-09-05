@@ -5,8 +5,6 @@ math: true
 diagram: true
 markup: mmark
 ---
-# Calculation of confidence interval for $R^2$ #
-
 $R^2$, or coefficient of determination, measures the proportion of dependent variable's variance explained (i.e., predictable) by an independent variable or variables. 
 In this document, I define a few functions that compute the confidence interval for the coefficient of determination (also know as $R^2$). To calculate this, recall Cohen et al. (2003) formula of  the squared standard error of $R^2$:
 
