@@ -18,12 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a scientist interested in application of machine learning and statistics to solving political, psychological and economic questions. I am also interested in data visualization.
+bio: I am a scientist interested in application of machine learning, statistics and data visualization to answer political, psychological and economic questions. 
 
-Tools that I use:
-- Python
-- R
-- Jamovi and other statistical packages
 
 education:
   courses:
