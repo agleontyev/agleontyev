@@ -1,7 +1,9 @@
 ---
-published: true
-category: python
-tags: python
+title: Data preprocessing in Psychopy
+date: 2018-06-08
+math: true
+diagram: true
+markup: mmark
 ---
 Psychopy is (rightfully) one of the most popular tools to create behavioral experiments. However, since it outputs so much data, it might be very bothersome to analyze it.
 Assuming default options (data for each participant is saved in a separate file), I usually do the following:
