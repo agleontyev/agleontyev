@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Cognition and Cognitive Neuroscience
     institution: Texas A&M University
-    years: 2016 - current
+    year: 2016 - current
   - course: Graduate coursework
     institution: University of Louisiana at Lafayette
-    years: 2014-2016
+    year: 2014-2016
   - course: BSc in Psychology
     institution: National Research University - Higher School of Economics
-    years: 2009-2013
+    year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,9 +56,9 @@ social:
   link: https://github.com/agleontyev
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#  icon: cv
-#   icon_pack: ai
-#  link: files/cv.pdf
+  - icon: cv
+   icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
