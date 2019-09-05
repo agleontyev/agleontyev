@@ -1,6 +1,9 @@
 ---
-published: true
-tags: other
+title: Cutting Xcode
+date: 2018-04-05
+math: true
+diagram: true
+markup: mmark
 ---
 
 For those who like to use Mac for code development in R, python (or any other language), XCode is a necessary dependancy. However, because of Apple's decision, Xcode tools ship with support packages for mobile systems (iOS) and Apple Watch. If you are, like me, data scientists, chances are you are not out there making applications for apple watch or IPhone. To significantly -- in my case, 8 GB -- reduce the size of Xcode, we can delete the support packages for mobile devices. To do this, open Terminal and paste the following commands(it takes some time, especially on the older machines, to execute them):
