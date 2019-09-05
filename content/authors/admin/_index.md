@@ -32,10 +32,10 @@ education:
     year: 2016 - current
   - course: Graduate coursework
     institution: University of Louisiana at Lafayette
-    year: 2014-2016
+    year: 2014 - 2016
   - course: BSc in Psychology
     institution: National Research University - Higher School of Economics
-    year: 2009-2013
+    year: 2009 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
