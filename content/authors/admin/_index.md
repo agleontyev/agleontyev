@@ -72,4 +72,4 @@ email: ""
 
 I am a scientist interested in application of machine learning and statistics to solving political, psychological and economic questions. I am also interested in data visualization.
 
-My blog is run in two languages: Russian and English (but mostly English). In my work I mostly use Python (sklearn, matplotlib, Scipy, pandas and other libraries) and R (Caret, MASS, tidyverse family, ggplot and other libraries). I am also skilled with SPSS and other statistical packages, such as Jamovi and JASP.
+My blog is run in two languages: Russian and English (but mostly English). In my work I use Python (sklearn, matplotlib, Scipy, pandas and other libraries) and R (Caret, MASS, tidyverse family, ggplot and other libraries). I am also skilled with SPSS and other statistical packages, such as Jamovi and JASP.
