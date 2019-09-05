@@ -1,10 +1,8 @@
 ---
 title: "HBU: Human Behavior Understanding by Choice Reaching"
 authors:
-- admin
-- Stanley Sun
-- Mary Wolfe
 - Takashi Yamauchi
+- admin
 date: "2018-10-11"
 # doi: 
 
