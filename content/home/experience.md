@@ -17,28 +17,51 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Researcher"
+  company = "Yamauchi Cognition Lab"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "College Station, Texas"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = """  
+* Demonstrated the link between ADHD symptoms and hand motion properties using GLM, stepwise regression and random forest regressions in Python
+* Applied hierarchical Bayesian parameter estimation to behavioraldata in Python & R
+* Identified clusters in behavioral data using K-NN and SVM algorithms
+* Devised,planned,programmed and executed cognitive experiments using
+Python
+* Organized and led discussion groups,and graded homeworks for students in
+multiple undergraduate courses
+* Mentored undergraduate students on the principles of scientific research and
+basics of experimental design
+* Presented research on various local and national conferences """
+
+[[experience]]
+  title = "Graduate Researcher"
+  company = "Louisiana Music and Psychology Lab"
+  company_url = ""
+  location = "Lafayette, Louisiana"
+  date_start = "2014-08-16"
+  date_end = "2016-05-30"
+  description = """  
+ * Devised,planned,programmed and executed cognitive experiments 
+ * Analyzed data using SPSS
+ * Searched and summarized relevant literature
+ """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Higher School of Economics Cognitive Research Laboratory"
+  company_url = ""
+  location = "Moscow, Russia"
+  date_start = "2009-09-01"
+  date_end = "2013-10-30"
+  description = """
+  * Devised,planned,programmed and executed cognitive experiments 
+  * Analyzed data using SPSS 
+  * Searched and summarized relevant literature
+  * Presented research on various local and national conferences
+  """
 
 +++
