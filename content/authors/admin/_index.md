@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:a.g.leontyev@tamu.edu'  # For a direct email link, use "mailto:a.g.leontyev@tamu.edu".
+  link: 'mailto:a.g.leontiev@tamu.edu'  # For a direct email link, use "mailto:a.g.leontyev@tamu.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pundit_tony
