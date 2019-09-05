@@ -20,6 +20,19 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate Researcher"
+  company = "Gryphon Neurolab"
+  company_url = ""
+  location = "Remote"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = """  
+* Trained and deployed several models for prediction of personality characteristics from open social network data with Keras
+* Applied univariate and multivariate missing data imputation techniques in R and Python
+ """
+
+
+[[experience]]
+  title = "Graduate Researcher"
   company = "Yamauchi Cognition Lab"
   company_url = ""
   location = "College Station, Texas"
