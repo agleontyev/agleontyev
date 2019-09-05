@@ -15,7 +15,7 @@ role: Cognition & Cognitive Neuroscience PhD student & Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Texas A&M University
-  url: www.tamu.edu
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a scientist interested in application of machine learning and statistics to solving political, psychological and economic questions. I am also interested in data visualization.
