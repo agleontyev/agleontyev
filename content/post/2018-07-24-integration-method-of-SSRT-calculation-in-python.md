@@ -1,8 +1,9 @@
 ---
-title: SSRT calculation with integration method
-category: python
-published: true
-tags: python
+title: SSRT calculation in Python
+date: 2018-07-24
+math: true
+diagram: true
+markup: mmark
 ---
 Stop-signal reaction time (SSRT) is one of the most popular metrics of behavioral disinhibition. It can be estimated with a number of different methods. The exact method which you should use depends on the exeperimental design. If one uses a number of pre-determined stop-signal delays (SSD), then the method of choice is the integration method.
 
