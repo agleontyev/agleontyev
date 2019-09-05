@@ -32,8 +32,8 @@ featured: false
 
 # links:
 # - name: ""
-# url: www.frontiersin.org/articles/10.3389/fpsyg.2018.00496/full?report=reader
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url: 
+url_pdf: www.frontiersin.org/articles/10.3389/fpsyg.2018.00496/full?report=reader
 url_code: ''
 url_dataset: ''
 url_poster: ''
