@@ -1,3 +1,4 @@
+---
 title: "Choice reaching trajectory analysis as essential behavioral measures for psychological science"
 authors:
 - Takashi Yamauchi
