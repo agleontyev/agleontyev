@@ -1,4 +1,10 @@
-
+---
+title: Confidence intervals for R-squared
+date: 2019-09-05
+math: true
+diagram: true
+markup: mmark
+---
 # Calculation of confidence interval for $R^2$ #
 
 $R^2$, or coefficient of determination, measures the proportion of dependent variable's variance explained (i.e., predictable) by an independent variable or variables. 
