@@ -21,6 +21,8 @@ publication_types: ["2"]
 publication: "Frontiers in Psychology, 9, 496"
 publication_short: ""
 
+featured = true
+
 abstract: ADHD is frequently characterized as a disorder of executive function (EF). However, behavioral tests of EF, such as go/No-go tasks, often fail to grasp the deficiency in EF revealed by questionnaire-based measures. This inability is usually attributed to questionnaires and behavioral tasks assessing different constructs of executive functions. We propose an additional explanation for this discrepancy. We hypothesize that this problem stems from the lack of dynamic assessment of decision-making (e.g., continuous monitoring of motor behavior such as velocity and acceleration in choice reaching) in classical versions of behavioral tasks. We test this hypothesis by introducing dynamic assessment in the form of mouse motion in a go/No-go task. Our results indicate that, among healthy college students, self-report measures of ADHD symptoms become strongly associated with performance in behavioral tasks when continuous assessment (e.g., acceleration in the mouse-cursor motion) is introduced.
 
 # Summary. An optional shortened abstract.
