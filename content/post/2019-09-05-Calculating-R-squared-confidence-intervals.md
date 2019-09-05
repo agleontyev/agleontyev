@@ -1,9 +1,9 @@
 ---
-published: true
-title: Calculation of confidence intervals for R-squared
-category: python
-layout: post
-tags: python
+title: Calculating confidence intervals for R-squared 
+date: 2019-09-05
+math: true
+diagram: true
+markup: mmark
 ---
 
 <img src="/_posts/tex/ee9dc84d168b211ff9f4b354e295af3c.svg?invert_in_darkmode&sanitize=true" align=middle width=19.161017699999988pt height=26.76175259999998pt/>, or coefficient of determination, measures the proportion of dependent variable's variance explained (i.e., predictable) by an independent variable or variables. 
