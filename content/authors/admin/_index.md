@@ -65,9 +65,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am a scientist interested in application of machine learning and statistics to solving political, psychological and economic questions. I am also interested in data visualization.
