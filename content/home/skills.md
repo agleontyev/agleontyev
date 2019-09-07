@@ -32,10 +32,4 @@ subtitle = ""
   name = "Python"
 #  description = "10%"
 
-[[feature]]
-  icon = "julia"
-  icon_pack = "academicicons"
-  name = "Julia"
-#  description = "10%"
-
 +++
