@@ -34,7 +34,7 @@ subtitle = ""
 
 [[feature]]
   icon = "julia"
-  icon_pack = "fas"
+  icon_pack = "academicicons"
   name = "Julia"
 #  description = "10%"
 
