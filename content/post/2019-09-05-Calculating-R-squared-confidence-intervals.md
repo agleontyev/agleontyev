@@ -8,7 +8,7 @@ markup: mmark
 $R^2$, or coefficient of determination, measures the proportion of dependent variable's variance explained (i.e., predictable) by an independent variable or variables. 
 In this document, I define a few functions that compute the confidence interval for the coefficient of determination (also know as $R^2$). To calculate this, recall Cohen et al. (2003) formula of  the squared standard error of $R^2$:
 
-$$SE_{R^{2}} = \sqrt{\frac{4R^2(1 - R^2)^2(n-k-1)^2)}{(n^2 - 1)(n + 3)}}$$
+$$SE_{R^{2}} = \sqrt{\frac{4R^2(1 - R^2)^2(n-k-1)^2}{(n^2 - 1)(n + 3)}}$$
 
 where $R^2$ is unadjusted $R^2$, k  is the number of independent variables and n is the number of cases (observations). Simplest is calculation of 67% confidence interval:
 $$67\% CI  = R^{2} \pm SE_{R^{2}}$$
