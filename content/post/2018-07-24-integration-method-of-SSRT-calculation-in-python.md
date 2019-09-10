@@ -10,7 +10,7 @@ Stop-signal reaction time (SSRT) is one of the most popular metrics of behaviora
 To use this method, we need to first calculate accuracy for each predetermined stop-signal delay, and select one for which accuracy in stop trials equals 0.5 (50 %).
 In this picture, no specific SSD (on y-axis, expressed in ms) correpsonds to 0.5 accuracy.
 
-![png](./images/x1.png)
+{{< figure src="https://github.com/agleontyev/agleontyev/blob/master/content/post/images/x1.png?raw=true" lightbox="true" >}}
 
 To estimate SSD corresponding to 50% accuracy, we need to interpolate it.
 
