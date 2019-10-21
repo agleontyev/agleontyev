@@ -44,7 +44,7 @@ subtitle = ""
 [[feature]]
   icon = "fa-chart-area"
   icon_pack = "fas"
-  name = "Data Visualization"
+  name = "Data\n Visualization"
 #  description = "10%"
 
 
