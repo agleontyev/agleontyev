@@ -40,4 +40,11 @@ subtitle = ""
   name = "Machine Learning"
 #  description = "10%"
 
+[[feature]]
+  icon = "fa-chart-area"
+  icon_pack = "fas"
+  name = "Data Visualization"
+#  description = "10%"
+
+
 +++
