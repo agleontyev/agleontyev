@@ -42,14 +42,14 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "fa-chart-area"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Data\n Visualization"
 #  description = "10%"
 
 
 [[feature]]
-  icon = "fa-clipboard-check"
+  icon = "clipboard-check"
   icon_pack = "fas"
   name = "Experiment Design"
 #  description = "10%"
