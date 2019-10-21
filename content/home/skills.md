@@ -51,7 +51,7 @@ subtitle = ""
 [[feature]]
   icon = "fa-clipboard-check"
   icon_pack = "fas"
-  name = "Data Visualization"
+  name = "Experiment Design"
 #  description = "10%"
 
 
