@@ -27,11 +27,6 @@ subtitle = ""
   name = "R"
 #  description = "90%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
- # description = "100%"  
   
 
 [[feature]]
@@ -42,9 +37,16 @@ subtitle = ""
 
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+ # description = "100%"  
+
+
+[[feature]]
   icon = "chart-area"
   icon_pack = "fas"
-  name = "Data\n Visualization"
+  name = "Data Visualization"
 #  description = "10%"
 
 
