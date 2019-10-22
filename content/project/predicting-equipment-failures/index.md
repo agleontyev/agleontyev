@@ -1,5 +1,5 @@
-title: Predicting Equipment failures from sensor data
-summary: An example of using the in-built project page.
+title: ConocoPhilips Equipment Failures 
+summary: Predicting equipment failures from sensor data
 tags:
 - Machine learning
 date: "2019-10-21"
