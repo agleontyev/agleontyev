@@ -1,5 +1,5 @@
 ---
-title: "Mouse Movement Measures Enhance the Stop-signal Task in Adult ADHD Assessment"
+title: "Mouse Movement Measures Enhance the Stop-Signal Task in Adult ADHD Assessment"
 authors:
 - admin
 - Takashi Yamauchi
