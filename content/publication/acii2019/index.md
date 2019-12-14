@@ -30,7 +30,7 @@ featured: true
 
 # links:
 # - name: ""
-url: https://ieeexplore.ieee.org/abstract/document/8925073
+url: ieeexplore.ieee.org/abstract/document/8925073
 # url_pdf: 
 url_code: ''
 url_dataset: ''
