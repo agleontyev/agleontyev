@@ -5,7 +5,7 @@ authors:
 - Takashi Yamauchi
 - Moein Razavi
 date: "2019-09-06"
-# doi: 
+doi: 10.1109/ACIIW.2019.8925073
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2019-09-01T00:00:00Z"
