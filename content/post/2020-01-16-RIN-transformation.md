@@ -130,6 +130,6 @@ results.final_cols()
 These two columns can be correlated with each other.
 
 
-```python
+# References #
 
-```
+1. Bishara, A. J., & Hittner, J. B. (2012). Testing the significance of a correlation with nonnormal data: comparison of Pearson, Spearman, transformation, and resampling approaches. *Psychological methods, 17*(3), 399.
