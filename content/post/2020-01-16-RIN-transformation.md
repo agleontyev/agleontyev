@@ -1,4 +1,10 @@
-# Correlation and Rank-Based Inverse Normal Transformation
+---
+title: Correlation and Rank-Based Inverse Normal Transformation
+date: 2020-01-16
+math: true
+diagram: true
+markup: mmark
+---
 
 This post is based on Bishara and Hittner's article (2012), introduced to me by Dr. Takashi Yamauchi.
 Correlation is simple yet one of the most important tools in establishing the relationship between two variables. However, if Pearson's *r* is used and the data is non-normally distributed, the amount of Type I erros (false positives, i.e. seeing correlation where there is truly no correlation) might increase dramatically.
