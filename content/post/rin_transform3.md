@@ -1,6 +1,6 @@
 ---
 title: Correlation and Rank-Based Inverse Normal Transformation
-date: 2020-12-02
+date: 2020-02-12
 math: true
 diagram: true
 markup: mmark
