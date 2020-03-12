@@ -19,19 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Data Scientist"
-  company = "Gryphon Neurolab"
-  company_url = ""
-  location = "Remote"
-  date_start = "2016-09-01"
-  date_end = "2020-02-01"
-  description = """  
-* Trained and deployed several models for prediction of personality characteristics from open social network data with Keras
-* Applied univariate and multivariate missing data imputation techniques in R and Python
- """
-
-
-[[experience]]
   title = "Graduate Researcher"
   company = "Yamauchi Cognition Lab"
   company_url = ""
@@ -49,6 +36,21 @@ multiple undergraduate courses
 * Mentored undergraduate students on the principles of scientific research and
 basics of experimental design
 * Presented research on various local and national conferences """
+
+
+[[experience]]
+  title = "Data Scientist"
+  company = "Gryphon Neurolab"
+  company_url = ""
+  location = "Remote"
+  date_start = "2018-09-01"
+  date_end = "2020-02-01"
+  description = """  
+* Trained and deployed several models for prediction of personality characteristics from open social network data with Keras
+* Applied univariate and multivariate missing data imputation techniques in R and Python
+ """
+
+
 
 [[experience]]
   title = "Graduate Researcher"
