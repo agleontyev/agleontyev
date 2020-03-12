@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Gryphon Neurolab"
   company_url = ""
   location = "Remote"
-  date_start = "2016-09-01"
-  date_end = ""
+  date_start = "2018-09-01"
+  date_end = "2020-02-01"
   description = """  
 * Trained and deployed several models for prediction of personality characteristics from open social network data with Keras
 * Applied univariate and multivariate missing data imputation techniques in R and Python
