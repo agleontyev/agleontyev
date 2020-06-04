@@ -1,3 +1,10 @@
+---
+title: Calculating indifference points using consistent choice detection algoritm in the delay discounting task
+date: 2020-06-04
+math: true
+diagram: true
+markup: mmark
+---
 Delay discounting task is one of the most powerful instruments of
 behavioral analysis of impulsivity. This paradigm presents an individual
 with two options: smaller and immeditely avaliable one (sooner/smaller)
