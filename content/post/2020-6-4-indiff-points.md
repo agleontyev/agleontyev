@@ -16,7 +16,7 @@ towards delayed and immediate rewards. In other words, we need to find
 the immediate amount that is worth the same to an individual that is a
 greater but delayed one. There is a lot of ways to calculate this
 indifference point. In this post, I want to focus on a specific one,
-used by Amlund and colleagues (2013). In their study, indifference point
+used by Amlung and MacKillop (2013). In their study, indifference point
 is defined as the arithmetic average of values offered when a
 partidcipant swithces their prefernce and before. Consider this example:
 
@@ -202,3 +202,7 @@ See how it works:
     ## 
     ## $row_where_consistent_switch
     ## [1] 9
+
+
+# References
+1. Amlung, M., & MacKillop, J. (2011). Delayed reward discounting and alcohol misuse: the roles of response consistency and reward magnitude. Journal of experimental psychopathology, 2(3), 418-431.
