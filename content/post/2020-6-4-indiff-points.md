@@ -105,9 +105,9 @@ partidcipant swithces their prefernce and before. Consider this example:
 </table>
 
 In this case, the switch occurs when an individual is offered $60.
-Previous offer is $50. Thus, the indifference point is equal to (60 +
-50)/2 = $55. That is, $100 with a 10 days waiting period is worth the
-same as $55 avaliable immediately. Notice that the participant in this
+Previous offer is \$50. Thus, the indifference point is equal to (60 +
+50)/2 = \$55. That is, \$100 with a 10 days waiting period is worth the
+same as \$55 avaliable immediately. Notice that the participant in this
 example is consistent in his choice (i.e. doesn’t keep switching back
 when offered a larger amount). But some people are indeed inconsistent.
 How can we estimate indifference points with different levels of
