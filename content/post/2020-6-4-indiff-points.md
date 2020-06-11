@@ -104,7 +104,7 @@ partidcipant swithces their prefernce and before. Consider this example:
 </tbody>
 </table>
 
-In this case, the switch occurs when an individual is offered $60.
+In this case, the switch occurs when an individual is offered \$60.
 Previous offer is \$50. Thus, the indifference point is equal to (60 +
 50)/2 = \$55. That is, \$100 with a 10 days waiting period is worth the
 same as \$55 avaliable immediately. Notice that the participant in this
