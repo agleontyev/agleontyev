@@ -34,3 +34,8 @@
   name = "CV"
   url = "files/cv.pdf"
   weight = 70
+  
+[[main]]
+  name = "Posters"
+  url = "files/posters"
+  weight = 80
