@@ -38,4 +38,9 @@
 [[main]]
   name = "Posters"
   url = "https://github.com/agleontyev/Posters"
+  weight = 90
+  
+[[main]]
+  name = "Resume"
+  url = "files/resume.pdf"
   weight = 80
