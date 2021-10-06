@@ -30,7 +30,7 @@ featured: true
 
 # links:
 # - name: ""
-url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13046
+url: http://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13046
 # url_pdf: 
 url_code: ''
 url_dataset: ''
