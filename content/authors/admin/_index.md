@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Anthony Leontyev-Friedersdorff
+name: Anthony Leontief
 
 # Username (this should match the folder name)
 authors:
