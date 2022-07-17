@@ -15,7 +15,7 @@ role: Assistant Professor of Psychology & Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Concordia University Wisconsin
-  url: www.cuw.edu
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a scientist interested in applyting machine learning, statistics and data visualization techniques to answer political, psychological and economic questions. 
