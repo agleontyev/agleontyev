@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Cognition & Cognitive Neuroscience PhD student & Data Scientist
+role: Assistant Professor of Psychology & Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Texas A&M University
-  url: ""
+- name: Concordia University Wisconsin
+  url: "www.cuw.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a scientist interested in applyting machine learning, statistics and data visualization techniques to answer political, psychological and economic questions. 
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Cognition and Cognitive Neuroscience
     institution: Texas A&M University
-    year: 2016 - current
+    year: 2016 - 2022
   - course: Graduate coursework
     institution: University of Louisiana at Lafayette
     year: 2014 - 2016
