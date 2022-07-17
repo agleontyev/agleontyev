@@ -18,13 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Assistant Professor of Psychology"
+  company = "Concordia University Wisconsin "
+  company_url = ""
+  location = "Mequon, Wisconsin"
+  date_start = "2022-08-01"
+  date_end = ""
+  description = """  
+ """
+
+
+
 [[experience]]
   title = "Graduate Researcher"
   company = "Yamauchi Cognition Lab"
   company_url = ""
   location = "College Station, Texas"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2022-07-15"
   description = """  
 * Demonstrated the link between ADHD symptoms and hand motion properties using GLM, stepwise regression and random forest regressions in Python
 * Applied hierarchical Bayesian parameter estimation to behavioral data in Python & R
