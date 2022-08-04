@@ -46,7 +46,7 @@ social:
 #  link: https://twitter.com/pundit_tony
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=1_Dv71YAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=Mni2SHwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/agleontyev
