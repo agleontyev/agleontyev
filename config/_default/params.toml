@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "a.g.leontiev@tamu.edu"
-phone = "337 534 18 00 "
-address = "Department of Psychological and Brain Sciences, Texas A&M University, College Station, TX, 77843"
+email = "anton.leontyev@cuw.edu"
+phone = "262 243 42 72 "
+address = "Luther Hall 208-J, 12800 N Lake Shore Dr, Mequon, WI 53097"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """By appointment"""
