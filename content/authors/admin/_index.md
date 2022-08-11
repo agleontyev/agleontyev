@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:anton.leontyev@cuw.edu'  # For a direct email link, use "mailto:a.g.leontyev@tamu.edu".
-- icon: phone
-  icon_pack: fab
-  link: 'tel:2622434272'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Mni2SHwAAAAJ
@@ -55,6 +52,9 @@ social:
   icon: cv
   icon_pack: ai
   link: files/cv.pdf
+  icon: phone
+  icon_pack: fab
+  link: 'tel:2622434272'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
