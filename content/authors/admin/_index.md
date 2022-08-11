@@ -52,7 +52,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: envelope
+- icon: phone
   icon_pack: fas
   link: 'tel:2622434272'
 
