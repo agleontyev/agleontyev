@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:anton.leontyev@cuw.edu'  # For a direct email link, use "mailto:a.g.leontyev@tamu.edu".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/pundit_tony
+- icon: phone
+  icon_pack: fab
+  link: 'callto:2622434272'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Mni2SHwAAAAJ
