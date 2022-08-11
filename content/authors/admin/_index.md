@@ -53,7 +53,7 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 - icon: phone
-  icon_pack: fab
+  icon_pack: ai
   link: 'tel:2622434272'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
