@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV.pdf
 - icon: phone
   icon_pack: fas
   link: 'tel:2622434272'
