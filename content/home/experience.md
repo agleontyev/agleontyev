@@ -21,11 +21,22 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Assistant Professor of Psychology"
+  company = "Geneva College"
+  company_url = ""
+  location = "Beaver Falls, Pennsylvania"
+  date_start = "2024-08-01"
+  date_end = ""
+  description = """  
+ """
+
+
+[[experience]]
+  title = "Assistant Professor of Psychology"
   company = "Concordia University Wisconsin "
   company_url = ""
   location = "Mequon, Wisconsin"
   date_start = "2022-08-01"
-  date_end = ""
+  date_end = "2024-06-30"
   description = """  
  """
 
