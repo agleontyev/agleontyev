@@ -14,7 +14,7 @@ role: Assistant Professor of Psychology & Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Concordia University Wisconsin
+- name: Geneva College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
