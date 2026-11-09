@@ -19,19 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+
+[[experience]]
+  title = "Assistant Professor of Psychology"
+  company = "Missouri State University"
+  company_url = ""
+  location = "Springfield, Missouri"
+  date_start = "2026-08-02"
+  date_end = ""
+  description = """  
+ """
+
+
+
+
 [[experience]]
   title = "Assistant Professor of Psychology"
   company = "Geneva College"
   company_url = ""
   location = "Beaver Falls, Pennsylvania"
   date_start = "2024-08-01"
-  date_end = ""
+  date_end = "2026-08-01"
   description = """  
  """
 
 
 [[experience]]
-  title = "Assistant Professor of Psychology"
+  title = "Assistant Professor of Psychology (non-tenure track)"
   company = "Concordia University Wisconsin "
   company_url = ""
   location = "Mequon, Wisconsin"
